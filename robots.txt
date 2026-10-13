@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kegraham0022.github.io/sitemap.xml
+Sitemap: https://kegraham0022.github.io/grahamlab.github.io//sitemap.xml
