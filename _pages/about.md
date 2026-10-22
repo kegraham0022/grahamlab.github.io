@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Etc. [Affiliations](https://ce.gatech.edu/directory/person/katherine-graham)
+subtitle: 
 
 profile:
   align: right
