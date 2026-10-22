@@ -29,6 +29,10 @@ latest_posts:
 
 Welcome to the Graham lab at Georgia Tech. We are environmental engineers aiming to address problems at the intersection of water quality, climate, and public health. 
 
+We use interdisciplinary approaches from engineering, microbiology, molecular biology, risk science, and public health to accomplish our research goals. 
+
+Students and trainees passionate about these goals and approaches are always welcome in our group. Feel free to reach out to Dr. Graham for more information. 
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
