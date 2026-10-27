@@ -8,10 +8,12 @@ nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block        about_jacob.md content: about_mary.md content: about_julie.md
-  # and create one content file for each profile inside _pages/   content: about_elizabeth.md    content: about_anika.md   c
+  # and create one content file for each profile inside _pages/   content: about_elizabeth.md    content: about_anika.md
+  
   - align: right
     image: jorja_prof_pic.jpg
-    content: jorja_about.md
+    position: PhD student
+    bio: Jorja is a fourth year PhD student in the WatCH lab. 
     image_circular: false # crops the image to make it circular
 
   - align: right
