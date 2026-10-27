@@ -1,0 +1,2 @@
+### Biography
+Elizabeth Agunbiade is a third-year chemical engineering student at Georgia Tech. This is her second semester in the Graham Lab, where she supports ongoing research projects. Outside the lab, she is involved in Engineers Without Borders - SEED ATL, where she contributes to community outreach efforts. Elizabeth is passionate about sustainability and plans to pursue a career as a process engineer in the energy industry.
