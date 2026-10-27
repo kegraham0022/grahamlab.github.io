@@ -1,1 +1,19 @@
+---
+layout: about
+title: Jorja Overbey
+permalink: /people/jorja-overbey/
+
+profile:
+  align: right
+  image: jorja_prof_pic.jpg # Placed inside assets/img/
+  address: >
+    <p>Ford ES&T Building</p>
+    <p>Georgia Institute of Technology</p>
+---
+
+### Biography
+Write your individual biography here. Tell the world about yourself. 
+
+You can also use standard markdown text formatting, links, and lists here.
+
 Jorja Overbey is a fourth-year PhD student in Environmental Engineering, studying the waterborne pathogen Legionella pneumophila in the built environment. She earned her B.S. in Applied Mathematics at Arizona State University and her M.S. in Environmental Engineering here at Georgia Tech. During her time at Georgia Tech, she has received the National Science Foundation Graduate Research Fellowship. She received training in the CEE Graduate Leadership Academy, hosted by former provost Rafael Braas, and is the chair of the CEE Graduate Student Advisory Council. In her free time, Jorja plays the violin and wants to believe she enjoys running (when it isn’t too hot outside).
