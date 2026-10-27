@@ -22,10 +22,12 @@ profiles:
 
   - align: right
     image: mary_prof_pic.jpg
+    content: mary_about.md
     image_circular: false # crops the image to make it circular
 
   - align: right
     image: elizabeth_prof_pic.jpg
+    content: elizabeth_about.md
     image_circular: false # crops the image to make it circular
 
 ---
