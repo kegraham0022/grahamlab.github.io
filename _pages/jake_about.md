@@ -1,0 +1,15 @@
+---
+layout: about
+title: Jacob Phaneuf
+permalink: /people/jacob-phaneuf
+
+profile:
+  align: right
+  image: jake_prof_pic.jpg # Placed inside assets/img/
+  address: >
+    <p>Ford ES&T Building</p>
+    <p>Georgia Institute of Technology</p>
+---
+
+### Biography
+Jacob Phaneuf is a PhD student in Environmental Engineering from the Adirondack region of New York State. He completed his B.S. in Environmental Science at the University of California: Los Angeles and his M.S. in Environmental Engineering at Stanford University. His core research interests include the fate and transport of antimicrobial resistance genes, human health risks of impaired recreational waters, and environmental metagenomic applications for public health understanding. Outside of the lab and classroom, Jacob is a triathlete who also enjoys skiing, hiking, and traveling to new places.
