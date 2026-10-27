@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Jake and Jorja both presented their research in talks at the Southeastern Environmental Engineering conference (https://se3.ce.gatech.edu/). Congratulations to Jorja on her Best Presentation Award.
+Jake and Jorja both presented their research in talks at the [Southeastern Environmental Engineering conference](https://se3.ce.gatech.edu/). Congratulations to Jorja on her Best Presentation Award.
