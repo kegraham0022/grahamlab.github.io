@@ -18,6 +18,7 @@ profiles:
 
   - align: right
     image: jake_prof_pic.jpg
+    content: jake_about.md
     image_circular: false # crops the image to make it circular
 
   - align: right
