@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Lab group members
 nav: true
 nav_order: 7
 
@@ -22,15 +22,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: right
-    image: julie_prof_pic.jpg
-    image_circular: false # crops the image to make it circular
-
-  - align: right
     image: elizabeth_prof_pic.jpg
-    image_circular: false # crops the image to make it circular
-
-  - align: right
-    image: anika_prof_pic.jpg
     image_circular: false # crops the image to make it circular
 
 ---
