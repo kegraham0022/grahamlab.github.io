@@ -1,8 +1,4 @@
 ---
-layout: about
-title: Jorja Overbey
-permalink: /people/jorja-overbey/
-
 profile:
   align: right
   image: jorja_prof_pic.jpg # Placed inside assets/img/
