@@ -13,7 +13,7 @@ profiles:
   - align: right
     image: jorja_prof_pic.jpg
     position: PhD student
-    bio: Jorja is a fourth year PhD student in the WatCH lab. 
+    bio: main profile bio.
     image_circular: false # crops the image to make it circular
 
   - align: right
