@@ -12,8 +12,7 @@ profiles:
   
   - align: right
     image: jorja_prof_pic.jpg
-    position: PhD student
-    bio: main profile bio.
+    content: jorja_about.md
     image_circular: false # crops the image to make it circular
 
   - align: right
