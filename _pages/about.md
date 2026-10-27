@@ -31,6 +31,8 @@ Welcome to the Graham lab at Georgia Tech. We are environmental engineers aiming
 
 We use interdisciplinary approaches from engineering, microbiology, molecular biology, risk science, and public health to accomplish our research goals. 
 
+Some of our recent research projects have focused on wastewater-based epidemiology, microbial source tracking, and the fate of *Legionella* in potable water systems. 
+
 Students and trainees passionate about these goals and approaches are always welcome in our group. Feel free to reach out to Dr. Graham for more information. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
