@@ -1,0 +1,2 @@
+##Biography
+Mary is a first year PhD student in the school of Civil and Environmental Engineering, studying viral genomics in wastewater with the Graham Lab. She has an MS in Applied Environmental Science from CSUMB, where she studied the functional genomics of pesticide bioremediation, and a BA in Environmental Studies and Biology from Reed College. She enjoys trail running, reading, and foraging for wild mushrooms in her free time
