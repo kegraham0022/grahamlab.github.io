@@ -14,7 +14,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: right
-    image: jacob_prof_pic.jpg
+    image: jacob_prof_pic.jpeg
     image_circular: false # crops the image to make it circular
 
   - align: right
