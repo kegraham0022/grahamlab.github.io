@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Current and past projects in the Graham lab. 
-nav: false
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
