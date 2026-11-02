@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Climate and *Legionella pneumophila* in water systems
+description: Characterizing and predicting the effects of environmental changes on risks of legionellosis
 img: assets/img/12.jpg
 importance: 1
 category: work
